@@ -1,0 +1,51 @@
+
+h1 {
+	color: red;
+}
+
+div {
+	background: white;
+	/*font-family: “Segoe UI”,Arial,Helvetica,sans-serif;*/
+	font-size: 1.4rem !important;
+
+}
+
+div.row {
+
+}
+
+/*img {
+  width: 50rem;
+  heigth: 50rem;
+}*/
+
+.rectangle3 {
+  position: sticky;
+  background-color: #3C5A99;  
+  width: 50rem;
+  height: 2.14rem ;
+  bottom: 10;
+  left: -10;
+  right: -105;
+}
+
+.rectangle2 {
+  position: relative;
+   background-color: #3C5A99;  
+  width: 50rem;
+  height: 5rem ;
+  bottom: 50;
+  left: -10;
+  right: -105;
+}
+
+.rectangle1 {
+  position: absolute;
+   background-color: white;  
+  width: 80rem;
+  height: 5rem ;
+  bottom: 12rem;  
+}
+
+.i-am-centered { margin: auto;}
+
